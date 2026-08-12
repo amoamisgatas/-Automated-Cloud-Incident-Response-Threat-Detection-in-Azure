@@ -20,15 +20,19 @@ This project demonstrates an end-to-end automated security response workflow usi
 ## 🚀 Steps Implemented
 
 - **Configured a vulnerable Storage Account with public container access:**
+- 
   ![Public Storage Container](https://github.com/user-attachments/assets/edc34fc9-5a08-4e10-94f1-d29c6479bae4)
 
 - **Provisioned a Log Analytics Workspace for centralized logging & Monitored Security Posture:**
+- 
   ![Defender Dashboard](https://github.com/user-attachments/assets/ceea97c5-20b9-40af-ad70-83dc1b222030)
 
 - **Built a Logic App triggered by Microsoft Defender for Cloud alerts & Integrated Office 365 / Outlook:**
+- 
   ![Logic App Workflow](https://github.com/user-attachments/assets/d5aa5e3e-df98-45f9-ae30-1332587b8b81)
 
 - **Validated automated workflow execution:**
+- 
   ![Logic App Execution Success](https://github.com/user-attachments/assets/a22daf80-27d7-47e9-9640-d95a9883ae1e)
 
 ---
